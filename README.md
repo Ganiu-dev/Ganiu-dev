@@ -26,7 +26,6 @@ Here are some of the systems I have architected and built:
 
 ---
 
-### 📫 Let's Connect
-- **LinkedIn:** [https://www.linkedin.com/in/ganiyu-jamiu-05a8131a7?trk=contact-info)
+- **LinkedIn:** [Ganiu Jamiu](https://www.linkedin.com/in/ganiyu-jamiu-05a8131a7)
 - **Discord:** `ganiu2190`
 - **Open for:** Freelance Python automation projects (Fast delivery, $25+).
